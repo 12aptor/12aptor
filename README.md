@@ -1,6 +1,6 @@
 #  12aptor 🤠
 
-Soy un desarrollador web full-stack independiente. Todos los proyectos de codificación las construyo desde cero, desde la planificación y el diseño hasta la resolución de problemas de la vida real con código.
+Soy un desarrollador web full-stack. Todos los proyectos de codificación las construyo desde cero, desde la planificación y el diseño hasta la resolución de problemas de la vida real con código.
 
 ---
 
